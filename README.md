@@ -33,5 +33,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-Feito com 💜 por [Stefani Silva] 
+Feito com 💜 por Stefani Silva
 
